@@ -1,4 +1,8 @@
-# FamousMathematician
+# Çığır Açan Buluşlar
+
+## Oyuna Aşağıdaki Linkten Ulaşabilirsiniz
+
+https://cigiracanbuluslar.tech/
 
 ## Genel Bakış
 
