@@ -4,6 +4,18 @@
 
 https://cigiracanbuluslar.tech/
 
+## Trello aşağıdaki linkten ulaşabilirsiniz
+
+https://trello.com/w/cigiracanbuluslar
+
+## Proje Gereksinim Dökümanına aşağıdan ulaşabilirsiniz
+
+[ÇIĞIR AÇAN BULUŞLAR.docx](https://github.com/user-attachments/files/18053899/CIGIR.ACAN.BULUSLAR.docx)
+
+## SWOT Analizine aşağıdan ulaşabilirsiniz
+
+[Swot Analizi.docx](https://github.com/user-attachments/files/18053897/Swot.Analizi.docx)
+
 ## Genel Bakış
 
 Bu proje, artırılmış gerçeklik (AR) teknolojisini kullanarak matematikçileri ve buluşlarını eğlenceli bir şekilde öğrenmeyi amaçlamaktadır. Kullanıcı, bir sayfayı kamerayla tarayarak o sayfada yer alan matematikçilerle ilgili 3D modelleri görüntüleyebilir. 3D modellerin her biri, matematikçilerin buluşlarını ve katkılarını temsil eden bilgilerle ilişkilendirilmiştir.
