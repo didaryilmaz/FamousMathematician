@@ -6,26 +6,6 @@
     <title>Unity WebGL Player | CigirAcanBuluslar</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
-
-    <script>// Kamera açma ve görüntüyü sayfada gösterme kodu
-        navigator.mediaDevices.getUserMedia({ video: true })
-            .then((stream) => {
-                console.log("Kamera başarıyla açıldı.");
-
-                // Video öğesini oluştur ve ayarla
-                const video = document.createElement('video');
-                video.srcObject = stream;
-                video.autoplay = true;
-                video.style.width = '100%'; // Görüntünün boyutunu ayarla
-                video.style.height = 'auto';
-                video.style.border = '2px solid #ccc'; // İsteğe bağlı sınır
-
-                // Video öğesini sayfaya ekle
-                document.body.appendChild(video);
-            })
-            .catch((error) => {
-                console.error("Kamera erişim hatası:", error);
-            });</script>
 </head>
 <body>
     <div id="unity-container" class="unity-desktop">
