@@ -10,7 +10,7 @@ https://trello.com/w/cigiracanbuluslar
 
 ## TÜBİTAK değerlendirme dosyasına aşağıdaki linkten ulaşabilirsiniz
 
-[lessons_1_20241113210805.xlsx](https://github.com/user-attachments/files/18223206/lessons_1_20241113210805.xlsx)
+[lessons_1_20241113210805.xlsx](https://github.com/user-attachments/files/18223208/lessons_1_20241113210805.xlsx)
 
 ## Proje Gereksinim Dökümanına aşağıdan ulaşabilirsiniz
 
