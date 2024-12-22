@@ -8,6 +8,10 @@ https://cigiracanbuluslar.tech/
 
 https://trello.com/w/cigiracanbuluslar
 
+## TÜBİTAK değerlendirme dosyasına aşağıdaki linkten ulaşabilirsiniz
+
+[lessons_1_20241113210805.xlsx](https://github.com/user-attachments/files/18223206/lessons_1_20241113210805.xlsx)
+
 ## Proje Gereksinim Dökümanına aşağıdan ulaşabilirsiniz
 
 [ÇIĞIR AÇAN BULUŞLAR.docx](https://github.com/user-attachments/files/18053899/CIGIR.ACAN.BULUSLAR.docx)
