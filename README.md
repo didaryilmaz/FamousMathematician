@@ -12,6 +12,10 @@ https://trello.com/w/cigiracanbuluslar
 
 [TÜBİTAK.xlsx](https://github.com/user-attachments/files/18223210/TUBITAK.xlsx)
 
+## UML Diyagramları Döküman dosyasına aşağıdaki linkten ulaşabilirsiniz
+
+[Uml Diyagramları.docx](https://github.com/user-attachments/files/18241878/Uml.Diyagramlari.docx)
+
 ## Proje Gereksinim Dökümanına aşağıdan ulaşabilirsiniz
 
 [ÇIĞIR AÇAN BULUŞLAR.docx](https://github.com/user-attachments/files/18053899/CIGIR.ACAN.BULUSLAR.docx)
