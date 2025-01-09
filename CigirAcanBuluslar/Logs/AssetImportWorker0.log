@@ -219,3 +219,15 @@ Received Import Request.
   path: Assets/Images/indexImages/usersdidaryilmazdownloadsgreenandbluetraveltrifoldbrochure.png
   artifactKey: Guid(a032db9d482bb4256b351f66ef37490d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Images/indexImages/usersdidaryilmazdownloadsgreenandbluetraveltrifoldbrochure.png using Guid(a032db9d482bb4256b351f66ef37490d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88b0b1a92c53326b2f2baae8fe3e4a6d') in 0.015316 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 115.112696 seconds.
+  path: Assets/Images/indexImages/adsiz_tasarim_9.png
+  artifactKey: Guid(982713b1442e8421b915213e45680808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/indexImages/adsiz_tasarim_9.png using Guid(982713b1442e8421b915213e45680808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e073161b3b02e9893548f0cbf8d14ca8') in 0.020708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.538019 seconds.
+  path: Assets/Images/indexImages/adsiz_tasarim_8.png
+  artifactKey: Guid(e7009c9dc875a4687b47db306b3736f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/indexImages/adsiz_tasarim_8.png using Guid(e7009c9dc875a4687b47db306b3736f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f7ee498e7ec6ee9d2e502c0225ba4d1') in 0.017418 seconds 
