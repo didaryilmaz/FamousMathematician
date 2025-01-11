@@ -83,21 +83,28 @@ public class DefaultObserverEventHandler : MonoBehaviour
         mObserverBehaviour = null;
     }
 
-    void OnObserverStatusChanged(ObserverBehaviour behaviour, TargetStatus targetStatus)
+    void OnObserverStatusChanged(ObserverBehaviour observer, TargetStatus targetStatus)
     {
-        var name = mObserverBehaviour.TargetName;
-        if (mObserverBehaviour is VuMarkBehaviour vuMarkBehaviour && vuMarkBehaviour.InstanceId != null)
+        switch (targetStatus.Status)
         {
-            name += " (" + vuMarkBehaviour.InstanceId + ")";
+            case Status.TRACKED:
+                Debug.Log("Target is tracked.");
+                break;
+
+            case Status.NO_POSE:
+                Debug.Log("Target temporarily lost.");
+                // NO_POSE için daha yumuşak bir işlem gerekebilir
+                break;
+
+            default:
+                Debug.Log("Target not observed.");
+                break;
         }
-
-        Debug.Log($"Target status: {name} {targetStatus.Status} -- {targetStatus.StatusInfo}");
-
-        HandleTargetStatusChanged(mPreviousTargetStatus.Status, targetStatus.Status);
-        HandleTargetStatusInfoChanged(targetStatus.StatusInfo);
-        
-        mPreviousTargetStatus = targetStatus;
     }
+
+
+
+
 
     protected virtual void HandleTargetStatusChanged(Status previousStatus, Status newStatus)
     {

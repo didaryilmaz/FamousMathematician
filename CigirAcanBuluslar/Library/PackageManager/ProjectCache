@@ -3380,6 +3380,7 @@ m_ResolvedPackages:
     - 1.12.4
     - 1.12.5
     - 1.13.0
+    - 1.14.0
     compatible:
     - 1.4.0
     - 1.4.1
@@ -3400,6 +3401,7 @@ m_ResolvedPackages:
     - 1.12.4
     - 1.12.5
     - 1.13.0
+    - 1.14.0
     verified: 1.4.3
   dependencies:
   - name: com.unity.modules.androidjni
