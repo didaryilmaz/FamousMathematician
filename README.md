@@ -8,9 +8,9 @@
 
 [Trello - YMGK Çığır Açan Buluşlar](https://trello.com/b/QMbfDMF4/ymgk-cigir-acan-buluslar-ar-projesi)
 
-## TSH Formu dosyasına aşağıdaki linkten ulaşabilirsiniz
+## THS Formu dosyasına aşağıdaki linkten ulaşabilirsiniz
 
-[TSH FORMU](https://github.com/user-attachments/files/18223210/TUBITAK.xlsx)
+[THS FORMU](https://github.com/user-attachments/files/18223210/TUBITAK.xlsx)
 
 ## UML Diyagramları Döküman dosyasına aşağıdaki linkten ulaşabilirsiniz
 
