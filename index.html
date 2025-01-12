@@ -415,124 +415,54 @@
 
 
 
-                            <!-- Nav -->
                             <div class="header-nav">
                                 <div class="header-nav-wrapper">
-                                    <nav class="header-nav-list">
+                                    <nav class="header-nav-list" style="display: flex; gap: 0.2px;">
+                                        <!-- APK İndir Butonu -->
+                                        <div class="sqs-block-button-container sqs-block-button-container--left"
+                                             data-animation-role="button"
+                                             data-alignment="left"
+                                             data-button-size="medium"
+                                             data-button-type="primary">
+                                            <a href="https://drive.google.com/drive/u/0/folders/1ocCrn3vF6WSi5ATRoB9LVXmzCQb2Vzpa"
+                                               download
+                                               class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element">
+                                                APK İndir
+                                            </a>
+                                        </div>
 
-
-
-
-                                        <div class="header-nav-item header-nav-item--folder header-nav-item--active">
-                                            <a class="header-nav-folder-title"
-                                               href="/games-nav"
-                                               tabindex="-1"
-                                               data-animation-role="header-element"
-                                               aria-current="true">
+                                        <!-- Oyunlar Butonu -->
+                                        <div class="sqs-block-button-container sqs-block-button-container--left"
+                                             data-animation-role="button"
+                                             data-alignment="left"
+                                             data-button-size="medium"
+                                             data-button-type="primary">
+                                            <a 
+                                               class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element">
                                                 Oyunlar
                                             </a>
-                                            <div class="header-nav-folder-content">
-
-
-                                                <div class="header-nav-folder-item">
-                                                    <a href="/games">
-                                                        <span class="header-nav-folder-item-content">
-                                                            Oyunlarımız
-                                                        </span>
-                                                    </a>
-                                                </div>
-
-
-
-
-                                                <div class="header-nav-folder-item">
-                                                    <a href="/upcominggames">
-                                                        <span class="header-nav-folder-item-content">
-                                                            Yaklaşan Oyunlar
-                                                        </span>
-                                                    </a>
-                                                </div>
-
-
-
-
-                                                <div class="header-nav-folder-item header-nav-folder-item--active">
-                                                    <a href="/ar-games"
-                                                       aria-current="page">
-                                                        <span class="header-nav-folder-item-content">
-                                                            Artırılmış Gerçeklik
-                                                        </span>
-                                                    </a>
-                                                </div>
-
-
-
-
-                                                <div class="header-nav-folder-item">
-                                                    <a href="/tinyverse">
-                                                        <span class="header-nav-folder-item-content">
-                                                            Minik Evren
-                                                        </span>
-                                                    </a>
-                                                </div>
-
-
-
-                                            </div>
                                         </div>
 
-
-
-
-                                        <div class="header-nav-item header-nav-item--folder">
-                                            <a class="header-nav-folder-title"
-                                               href="/about-nav"
-                                               tabindex="-1"
-                                               data-animation-role="header-element">
+                                        <!-- Hakkında Butonu -->
+                                        <div class="sqs-block-button-container sqs-block-button-container--left"
+                                             data-animation-role="button"
+                                             data-alignment="left"
+                                             data-button-size="medium"
+                                             data-button-type="primary">
+                                            <a 
+                                               class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element">
                                                 Hakkında
                                             </a>
-                                            <div class="header-nav-folder-content">
-
-
-                                                <div class="header-nav-folder-item">
-                                                    <a href="/about">
-                                                        <span class="header-nav-folder-item-content">
-                                                            Hakkımızda
-                                                        </span>
-                                                    </a>
-                                                </div>
-
-
-
-                                                <div class="header-nav-folder-item">
-                                                    <a href="/contact-us">
-                                                        <span class="header-nav-folder-item-content">
-                                                            Bize Ulaşın
-                                                        </span>
-                                                    </a>
-                                                </div>
-
-
-
-                                            </div>
                                         </div>
-
-
-
-
-
                                     </nav>
                                 </div>
                             </div>
 
 
-                        </div>
 
 
-                        <!-- Actions -->
-                        <div class="header-actions header-actions--right">
-
-
+                            <!-- Actions -->
+                            <div class="header-actions header-actions--right">
 
 
 
@@ -540,31 +470,33 @@
 
 
 
-                            <div class="showOnMobile">
+
+
+                                <div class="showOnMobile">
+
+                                </div>
+
+
+                                <div class="showOnDesktop">
+
+                                </div>
+
 
                             </div>
 
 
-                            <div class="showOnDesktop">
-
-                            </div>
 
 
-                        </div>
+                            <style>
+                                .top-bun,
+                                .patty,
+                                .bottom-bun {
+                                    height: 1px;
+                                }
+                            </style>
 
-
-
-
-                        <style>
-                            .top-bun,
-                            .patty,
-                            .bottom-bun {
-                                height: 1px;
-                            }
-                        </style>
-
-                        <!-- Burger -->
-                        <div class="header-burger
+                            <!-- Burger -->
+                            <div class="header-burger
 
   menu-overlay-has-visible-non-navigation-items
 
@@ -573,26 +505,26 @@
   no-actions
 
 " data-animation-role="header-element">
-                            <button class="header-burger-btn burger" data-test="header-burger">
-                                <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
-                                <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
-                                <div class="burger-box">
-                                    <div class="burger-inner header-menu-icon-doubleLineHamburger">
-                                        <div class="top-bun"></div>
-                                        <div class="patty"></div>
-                                        <div class="bottom-bun"></div>
+                                <button class="header-burger-btn burger" data-test="header-burger">
+                                    <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+                                    <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+                                    <div class="burger-box">
+                                        <div class="burger-inner header-menu-icon-doubleLineHamburger">
+                                            <div class="top-bun"></div>
+                                            <div class="patty"></div>
+                                            <div class="bottom-bun"></div>
+                                        </div>
                                     </div>
-                                </div>
-                            </button>
+                                </button>
+                            </div>
+
+
+
+
+
+
+
                         </div>
-
-
-
-
-
-
-
-                    </div>
                     <div class="header-display-mobile" data-content-field="site-title">
 
 
@@ -988,13 +920,18 @@
 
 
 
-                            <img src="adsıztasarım9.jpg"
-                                 alt="adsız Tasarım"
-                                 width="2500"
-                                 height="865"
-                                 style="display: block; object-position: 50% 50%; object-fit: cover; width: 100%; height: auto;"
-                                 loading="eager"
-                                 decoding="async">
+                            <video src="/Users/didaryilmaz/Documents/GitHub/FamousMathematician/videoAR.mp4"
+                                   width="2500"
+                                   height="865"
+                                   style="display: block; object-position: 50% 50%; object-fit: cover; width: 100%; height: auto;"
+                                   autoplay
+                                   muted
+                                   loop
+                                   playsinline
+                                   loading="eager"
+                                   decoding="async">
+                            </video>
+
 
 
 
@@ -1026,40 +963,56 @@
                                     <div class="col sqs-col-12 span-12">
                                         <div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-4d6c1b8196ce9a9f706b">
                                             <div class="sqs-block-content">
-
                                                 <div class="sqs-html-content">
-                                                    <h1 style="white-space:pre-wrap;">Artırılmış Gerçeklik Oyunları</h1>
+                                                    <h2 class="game-title">Artırılmış Gerçeklik Oyunları</h2>
+                                                    <p class="game-subtitle">Hayal gücünüze dokunan, gerçekliği oyuna çeviren bir deneyim!</p>
                                                 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+
+                            <style>
+                                /* Yazı tipi ve büyüklük ayarları */
+                                @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+                                .game-title {
+                                    font-family: 'Montserrat', sans-serif; /* Yazı tipini Montserrat yaptık */
+                                    color: #ffffff; /* Beyaz renk */
+                                    font-size: 4rem; /* Başlık yazısı büyüklüğü */
+                                    text-shadow: 0 0 10px #ffd700, 0 0 20px #ffcc33, 0 0 30px #ffcc00; /* Sarı ışık efekti */
+                                    text-align: center;
+                                    animation: glowing 1.3s infinite alternate; /* Parlayan animasyon */
+                                    margin-top: 100px; /* Yazıyı aşağıya taşıma */
+                                }
+
+                                .game-subtitle {
+                                    font-family: 'Montserrat', sans-serif; /* Alt başlık da aynı yazı tipini kullanır */
+                                    color: #ffffff;
+                                    text-align: center;
+                                    font-size: 1.3rem; /* Alt başlık yazısı büyüklüğü */
+                                    margin-top: 15px; /* Üst boşluk */
+                                    opacity: 0.9;
+                                }
+
+                                /* Işık efektli animasyon */
+                                @keyframes glowing {
+                                    from {
+                                        text-shadow: 0 0 10px #ffcc33, 0 0 20px #ffcc00, 0 0 30px #ffaa00;
+                                    }
+
+                                    to {
+                                        text-shadow: 0 0 20px #ffd700, 0 0 30px #ffcc33, 0 0 40px #ffcc00;
+                                    }
+                                }
+
+                                /* Arka plan (isteğe bağlı) */
+                                body {
+                                    background-color: #121212; /* Siyah arka plan */
+                                }
+                            </style>
+
                         </div>
 
                     </div>
@@ -1567,7 +1520,7 @@ Bu artırılmış gerçeklik (AR) oyunu, sizi tarihin en büyük matematikçiler
                                                            data-alignment="left"
                                                            data-button-size="medium"
                                                            data-button-type="primary">
-                                                          <a href="/angry-birds-ar-isle-of-pigs"
+                                                          <a 
                                                              class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element">
                                                               Daha Fazla Bilgi
                                                           </a>
@@ -1909,7 +1862,9 @@ Bu artırılmış gerçeklik (AR) oyunu, sizi tarihin en büyük matematikçiler
                                                     <form action="/subscribe" method="POST" style="text-align:center;">
                                                         <input type="email" name="email" placeholder="E-posta adresinizi girin" required style="padding: 10px; width: 60%; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 10px;">
                                                         <br>
-                                                        <button type="submit" style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">Üye Ol</button>
+                                                        <button type="submit" style="padding: 15px 50px; background-color: #FCC201; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 18px;">
+                                                        Üye Ol
+                                                        </button>
                                                     </form>
                                                 </div>
                                             </div>
@@ -1927,7 +1882,9 @@ Bu artırılmış gerçeklik (AR) oyunu, sizi tarihin en büyük matematikçiler
                                                         <p>✔ Reklam içerir</p>
                                                         <p>✔ Temel oyun özellikleri</p>
                                                         <p>✔ "Çığır Açan Buluşlar" AR oyununu ücretsiz oynayın</p>
-                                                        <button style="padding: 10px 20px; background-color: #f0f0f0; color: #333; border: none; border-radius: 5px; cursor: pointer; margin-top: auto;">Ücretsiz Planı Başlat</button>
+                                                        <button style="padding: 15px 10px; background-color: #FCC201; color: #333; border: none; border-radius: 5px; cursor: pointer; margin-top: auto; font-size: 18px;">
+                                                            Ücretsiz Planı Başlat
+                                                        </button>
                                                     </div>
 
                                                     <!-- Premium Plan -->
@@ -1937,7 +1894,9 @@ Bu artırılmış gerçeklik (AR) oyunu, sizi tarihin en büyük matematikçiler
                                                         <p>✔ Özel oyun seviyeleri</p>
                                                         <p>✔ Premium müşteri desteği</p>
                                                         <p>✔ Tüm AR oyunlarına ve özel güncellemelere erişim sağlayın</p>
-                                                        <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer; margin-top: auto;">Premium'a Geçiş Yap</button>
+                                                        <button style="padding: 15px 10px; background-color: #FCC201; color: white; border: none; border-radius: 5px; cursor: pointer; margin-top: auto; font-size: 18px;">
+                                                        Premium'a Geçiş Yap
+                                                        </button>
                                                     </div>
 
                                                 </div>
