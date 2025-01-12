@@ -22,7 +22,7 @@
 
 ## SWOT Analizine aşağıdan ulaşabilirsiniz
 
-[Swot Analizi]([SWOT.pdf](https://github.com/user-attachments/files/18390437/SWOT.pdf))
+[Swot Analizi] ([SWOT.pdf](https://github.com/user-attachments/files/18390437/SWOT.pdf))
 
 
 
