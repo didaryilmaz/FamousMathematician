@@ -22,8 +22,8 @@
 
 ## SWOT Analizine aşağıdan ulaşabilirsiniz
 
-[Swot Analizi](![Eğitim Alanına Katkı Eğitici ve etkileşimli bir içerik sunarak matematik tarihine olan ilgiyi artırır  Yenilikçi Teknoloji Kullanımı AR tabanlı uygulamalar, kullanıcıların dikkatini çeker ve deney](https://github.com/user-attachments/assets/cb2d0a06-eb52-48e9-99c4-40266dc424fa)
-)
+[Swot Analizi][Eğitim Alanına Katkı Eğitici ve etkileşimli bir içerik sunarak matematik tarihine olan ilgiyi artırır. Yenilikçi Teknoloji Kullanımı AR tabanlı uygulamalar, kullanıcıların dikkatini çeker ve deney.pdf](https://github.com/user-attachments/files/18390432/Egitim.Alanina.Katki.Egitici.ve.etkilesimli.bir.icerik.sunarak.matematik.tarihine.olan.ilgiyi.artirir.Yenilikci.Teknoloji.Kullanimi.AR.tabanli.uygulamalar.kullanicilarin.dikkatini.ceker.ve.deney.pdf)
+
 
 ## Genel Bakış
 
