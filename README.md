@@ -10,7 +10,7 @@
 
 ## THS Formu dosyasına aşağıdaki linkten ulaşabilirsiniz
 
-[THS FORMU](https://github.com/user-attachments/files/18223210/TUBITAK.xlsx)
+[THS Formu](https://github.com/user-attachments/files/18390675/THS.Formu.xlsx)
 
 ## UML Diyagramları Döküman dosyasına aşağıdaki linkten ulaşabilirsiniz
 
