@@ -1,4 +1,6 @@
-# Çığır Açan Buluşlar
+# Didar Yılmaz - 215541031
+
+# YMGK - Çığır Açan Buluşlar (sayfa 69)
 
 ## Web Siteye Aşağıdaki Linkten Ulaşabilirsiniz:
 
@@ -25,7 +27,6 @@
 [SWOT Analizi](https://github.com/user-attachments/files/18390437/SWOT.pdf)
 
 
-
 ## Genel Bakış
 
 Bu proje, artırılmış gerçeklik (AR) teknolojisini kullanarak matematikçileri ve buluşlarını eğlenceli bir şekilde öğrenmeyi amaçlamaktadır. Kullanıcı, bir sayfayı kamerayla tarayarak o sayfada yer alan matematikçilerle ilgili 3D modelleri görüntüleyebilir. 3D modellerin her biri, matematikçilerin buluşlarını ve katkılarını temsil eden bilgilerle ilişkilendirilmiştir.
@@ -46,13 +47,6 @@ AR teknolojisinin gücü sayesinde, öğrenme süreci etkileşimli ve görsel ol
 
 4. **Etkileşimli Eğitim:**
    - Kullanıcı dostu arayüz sayesinde, matematik ve buluşlarla ilgili bilgi edinmek kolaylaştırılmıştır.
-
-
-## Uygulama içi ekran görüntüleri
-
-<img width="639" alt="Ekran Resmi 2024-12-08 00 19 23" src="https://github.com/user-attachments/assets/0d3a105a-2634-4742-a58f-4427824bb409">
-
----
 
 ## Proje Planlama
 
@@ -111,4 +105,10 @@ AR teknolojisinin gücü sayesinde, öğrenme süreci etkileşimli ve görsel ol
  - Proje raporunu hazırla ve ekip içi değerlendirme toplantısı yap
  - Kullanıcı geri bildirimlerini topla ve gelecek için notlar al
  - Projeyi portföyüne ekle
+
+## Uygulama içi ekran görüntüleri
+
+<img width="639" alt="Ekran Resmi 2024-12-08 00 19 23" src="https://github.com/user-attachments/assets/0d3a105a-2634-4742-a58f-4427824bb409">
+
+
 
