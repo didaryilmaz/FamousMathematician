@@ -1,6 +1,9 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - AudioManager
+    - Draggable
+    - DropZone
     - PlaySoundOnClick
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
@@ -11,6 +14,7 @@ ScriptsOnlyBuild:
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.EventTrigger
+    - UnityEngine.EventSystems.PhysicsRaycaster
     - UnityEngine.EventSystems.StandaloneInputModule
     - UnityEngine.UI.Button
     - UnityEngine.UI.CanvasScaler
@@ -318,57 +322,65 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1810}
     - Class: 114
-      Script: {instanceID: 2748}
+      Script: {instanceID: 2744}
     - Class: 114
-      Script: {instanceID: 2794}
+      Script: {instanceID: 2790}
     - Class: 114
-      Script: {instanceID: 2884}
+      Script: {instanceID: 2880}
     - Class: 114
-      Script: {instanceID: 2886}
+      Script: {instanceID: 2882}
     - Class: 114
-      Script: {instanceID: 2962}
+      Script: {instanceID: 2958}
     - Class: 114
-      Script: {instanceID: 2964}
+      Script: {instanceID: 2960}
     - Class: 114
-      Script: {instanceID: 3174}
+      Script: {instanceID: 3170}
     - Class: 114
-      Script: {instanceID: 3424}
+      Script: {instanceID: 3420}
     - Class: 114
-      Script: {instanceID: 3610}
+      Script: {instanceID: 3606}
     - Class: 114
-      Script: {instanceID: 4570}
+      Script: {instanceID: 4436}
+    - Class: 114
+      Script: {instanceID: 4566}
+    - Class: 114
+      Script: {instanceID: 4576}
+    - Class: 114
+      Script: {instanceID: 4578}
     - Class: 114
       Script: {instanceID: 4580}
     - Class: 114
-      Script: {instanceID: 4582}
+      Script: {instanceID: 4666}
     - Class: 114
-      Script: {instanceID: 4584}
+      Script: {instanceID: 4672}
     - Class: 114
-      Script: {instanceID: 4670}
+      Script: {instanceID: 4674}
     - Class: 114
       Script: {instanceID: 4676}
     - Class: 114
       Script: {instanceID: 4678}
     - Class: 114
-      Script: {instanceID: 4680}
+      Script: {instanceID: 4708}
     - Class: 114
-      Script: {instanceID: 4682}
+      Script: {instanceID: 5550}
     - Class: 114
-      Script: {instanceID: 4712}
+      Script: {instanceID: 5606}
     - Class: 114
-      Script: {instanceID: 5554}
+      Script: {instanceID: 5964}
     - Class: 114
-      Script: {instanceID: 5610}
+      Script: {instanceID: 6302}
     - Class: 114
-      Script: {instanceID: 5968}
+      Script: {instanceID: 6860}
     - Class: 114
-      Script: {instanceID: 6306}
+      Script: {instanceID: 7298}
     - Class: 114
-      Script: {instanceID: 6864}
+      Script: {instanceID: 7774}
     - Class: 114
-      Script: {instanceID: 7302}
+      Script: {instanceID: 8246}
     - Class: 114
-      Script: {instanceID: 7778}
+      Script: {instanceID: 8510}
+    - Class: 114
+      Script: {instanceID: 8592}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -2664,6 +2676,12 @@ ScriptsOnlyBuild:
     className: VuMarkPreview
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Draggable
+  - hash:
+      serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -2676,10 +2694,22 @@ ScriptsOnlyBuild:
     className: ScrollRect
   - hash:
       serializedVersion: 2
+      Hash: 5db6ce7f768c59be478e94c0c6f203ee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameController
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnParticleCollisionMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 5455c53d222a05b408a811c0ce64d7d8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DropZone
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -2692,6 +2722,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: Variables
+  - hash:
+      serializedVersion: 2
+      Hash: b7f339721b1694fcabe2616cb2fdb234
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AudioManager
   - hash:
       serializedVersion: 2
       Hash: 2574ac7d50617d23cdefe4ad22f5e1ad
@@ -2743,4 +2779,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/BilgilendirmeSayfasi.unity
-  playerPath: /Users/didaryilmaz/Downloads/apk.apk
+  playerPath: /Users/didaryilmaz/Downloads/CigirAcanBuluslar.apk
