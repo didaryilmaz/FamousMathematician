@@ -357,6 +357,10 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/VuforiaEditorScripts.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/VuforiaScripts.ref.dll"
+"Assets/Scripts/AudioManager.cs"
+"Assets/Scripts/Draggable.cs"
+"Assets/Scripts/DropZone.cs"
+"Assets/Scripts/GameController.cs"
 "Assets/Scripts/PlaySoundOnClick.cs"
 "Assets/Scripts/TargetStatusHandler.cs"
 -langversion:9.0

@@ -451,3 +451,6 @@
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.AdditionalFile.txt","enqueuedNodeIndex":358,"enqueueingNodeAnnotation":"Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)","enqueueingNodeIndex":360}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.rsp","enqueuedNodeIndex":359,"enqueueingNodeAnnotation":"Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)","enqueueingNodeIndex":360}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb","enqueuedNodeIndex":452,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":5}
+{"msg":"nodeRetryBuild","annotation":"Csc Library/Bee/artifacts/1300b0aE.dag/VuforiaScripts.dll (+2 others)","index":190}
+{"msg":"runNodeAction","annotation":"Csc Library/Bee/artifacts/1300b0aE.dag/VuforiaScripts.dll (+2 others)","index":190}
+{"msg":"noderesult","processed_node_count":439,"number_of_nodes_ever_queued":452,"annotation":"Csc Library/Bee/artifacts/1300b0aE.dag/VuforiaScripts.dll (+2 others)","index":190,"exitcode":0,"outputfile":"Library/Bee/artifacts/1300b0aE.dag/VuforiaScripts.dll"}
