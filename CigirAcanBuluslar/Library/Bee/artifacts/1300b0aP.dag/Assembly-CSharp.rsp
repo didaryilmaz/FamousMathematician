@@ -313,6 +313,7 @@
 "Assets/Scripts/DropZone.cs"
 "Assets/Scripts/GameController.cs"
 "Assets/Scripts/PlaySoundOnClick.cs"
+"Assets/Scripts/SceneLoader.cs"
 "Assets/Scripts/TargetStatusHandler.cs"
 "Assets/VuforiaLicense.cs"
 -langversion:9.0

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="mainscene" size="1080.000000 1920.000000" />
     <ImageTarget name="cigiracanbuluslar" size="5.000000 6.612903" />
   </Tracking>
 </QCARConfig>
