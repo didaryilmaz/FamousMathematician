@@ -12,7 +12,7 @@
 
 ## THS Formu dosyasına aşağıdaki linkten ulaşabilirsiniz
 
-[THS Formu](https://github.com/user-attachments/files/18390675/THS.Formu.xlsx)
+[THS Formu](https://github.com/user-attachments/files/18532739/THS.Formu.xlsx)
 
 ## UML Diyagramları Döküman dosyasına aşağıdaki linkten ulaşabilirsiniz
 
